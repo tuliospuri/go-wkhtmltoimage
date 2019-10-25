@@ -1,7 +1,7 @@
-# Docker image with go and wkhtmltopdf
+# Docker image with go and wkhtmltoimage
 
 To use this image:
 
 ```bash
-docker pull paulcheredn/go-wkhtmpltopdf
+docker pull tuliospuri/go-wkhtmltoimage
 ```
